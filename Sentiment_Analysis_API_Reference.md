@@ -40,6 +40,7 @@ This example demonstrates a standard English text submission with default langua
 {
   "text": "I absolutely loved this product!"
 }
+```
 
 **Sample Response:**
 ```json
@@ -52,6 +53,7 @@ This example demonstrates a standard English text submission with default langua
   ],
   "model_version": "v1.4.2"
 }
+```
 
 ## Error Handling
 
